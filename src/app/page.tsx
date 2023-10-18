@@ -52,7 +52,7 @@ export default function Home() {
           className="text-right"
         >
           <p>Iconic digital</p>
-          <p>productrs (2023)</p>
+          <p>products (2023)</p>
         </motion.div>
       </div>
       <div className="text-center w-full">
